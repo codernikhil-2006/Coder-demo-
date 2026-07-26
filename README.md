@@ -1,4 +1,4 @@
-# Coder-demo-
+ # Coder-demo-
 This is my first Git Repository.  
 </br>
-Author-Nikhil Katare
+Author-Nikhil Katare.
